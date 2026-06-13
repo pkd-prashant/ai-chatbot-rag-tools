@@ -160,12 +160,6 @@ streamlit run frontend/app.py
 
 ---
 
-## 📸 Demo
-
-*Add screenshots or GIFs here to showcase UI and features*
-
----
-
 ## 💡 Future Improvements
 
 * 🔐 Authentication & user accounts
